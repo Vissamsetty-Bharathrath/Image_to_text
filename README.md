@@ -1,12 +1,6 @@
 # Image_to_text
 This program is used for extracting text from Image.
 
-## Authors
-
-- [@Sai Krishna Vadali](https://github.com/saikrishnavadali05)
-- [@Josyula Ravi Teja](https://github.com/ravitejasssihl)
-- [@Vissamsetty-Bharathrath](https://github.com/Vissamsetty-Bharathrath)
-
 ## Installation
 
 To deploy this project run
